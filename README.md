@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NewlLearn
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front End Development ( HTML , CSS & JAVASCRIPT )
-- 💞️ I’m looking to collaborate on Open Source
+- 👀 I’m interested in Python Development
+- 🌱 I’m currently learning Front End & Backend ( HTML , CSS & JAVASCRIPT )
+- 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me Through my Email :) ( tracyneilprivate@gmail.com )
 
 <!---
