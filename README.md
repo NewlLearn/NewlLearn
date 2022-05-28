@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NewlLearn
+- 👋 Hi, I’m Tracy Neil Padilla
 - 👀 I’m interested in JAVA Development
 - 🌱 I’m currently learning JAVA 
 - 💞️ I’m looking to collaborate on Open Source Projects
